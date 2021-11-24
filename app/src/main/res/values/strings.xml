@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Hajisu</string>
+
+
+    /*strings for the on_boarding session*/
+
+    //titles
+    <string name="first_slide_title">SAVE TIME</string>
+    <string name="second_slide_title">USER FRIENDLY</string>
+    <string name="third_slide_title">SIMPLE INTERFACE</string>
+    <string name="fourth_slide_title">REACH YOUR GOAL</string>
+
+    //descriptions
+    <string name="first_slide_desc">We believe technology should be an
+extension of yourself.
+It should not seek your attention.
+Its not about the apps, its about you
+    </string>
+
+    <string name="second_slide_desc">We believe technology should be an
+extension of yourself.
+It should not seek your attention.
+Its not about the apps, its about you
+    </string>
+
+    <string name="third_slide_desc">We believe technology should be an
+extension of yourself.
+It should not seek your attention.
+Its not about the apps, its about you
+    </string>
+
+    <string name="fourth_slide_desc">We believe technology should be an
+extension of yourself.
+It should not seek your attention.
+Its not about the apps, its about you
+    </string>
+
+    //buttons
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="lets_get_started">Lets get started</string>
+    <string name="menu">menu</string>
+    <string name="discover">DISCOVER</string>
+    <string name="start_exploring">Start Exploring</string>
+    <string name="education">EDUCATION</string>
+    <string name="games">GAMES</string>
+    <string name="shop">SHOP</string>
+    <string name="grocery">GROCERY</string>
+    <string name="delivery">DELIVERY</string>
+    <string name="medicines">MEDICINES</string>
+    <string name="home">HOME</string>
+    <string name="search">SEARCH</string>
+    <string name="all_categories">ALL CATEGORIES</string>
+    <string name="add_missing_places">ADD MISSING PLACES</string>
+    <string name="profile">PROFILE</string>
+    <string name="login">LOGIN</string>
+    <string name="logout">LOGOUT</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="SHARE">SHARE</string>
+    <string name="hajisu">HAJISU</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorites">FAVORITES</string>
+    <string name="messages">MESSAGES</string>
+    <string name="explore">EXPLORE</string>
+
+
+</resources>
